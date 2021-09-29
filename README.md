@@ -9,6 +9,7 @@
 - 🌱 I’m currently learning **Computer Science**
 - 💬 Ask me about **Go, JavaScript, Software Architecture, DevOps and Algorithms**
 - 📫 How to reach me: [@itsAienSaidi](https://twitter.com/itsAienSaidi) on Twitter
+- 📧 My email: [aien[dot]saidi[at]gmail[dot].com](mailto:aien.saidi@gmail.com)
 
 -------
 
