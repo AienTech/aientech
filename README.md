@@ -5,7 +5,7 @@
 </p>
 
 
-- 🔭 I’m currently working at **[@Shopgate](https://github.com/shopgate)**
+- 🔭 I’m currently working at **[@WeAreGroup](https://wearegroup.de/)**
 - 🌱 I’m currently learning **Computer Science**
 - 💬 Ask me about **Go, JavaScript, Software Architecture, DevOps** and **Algorithms**
 - 📫 How to reach me: [@itsAienSaidi](https://twitter.com/itsAienSaidi) on Twitter
