@@ -5,11 +5,11 @@
 </p>
 
 
-- 🔭 I’m currently working at **[@WeAreGroup](https://wearegroup.de/)**
-- 🌱 I’m currently learning **Computer Science**
-- 💬 Ask me about **Go, JavaScript, Software Architecture, DevOps** and **Algorithms**
-- 📫 How to reach me: [@itsAienSaidi](https://twitter.com/itsAienSaidi) on Twitter
-- 📧 My email: [aien[dot]saidi[at]gmail[dot]com](mailto:aien.saidi@gmail.com)
+- 🔭 I’m currently working at **[@WeAreGroup](https://wearegroup.de/)**,
+- 🌱 I’m also learning **Computer Science**,
+- 💬 You can ask me about **Go, JavaScript, Software Architecture, DevOps** and **Algorithms**
+- 📫 Want to reach me? I'm [@itsAienSaidi](https://twitter.com/itsAienSaidi) on Twitter,
+- 📧 And my email is [aien[dot]saidi[at]gmail[dot]com](mailto:aien.saidi@gmail.com).
 
 -------
 
