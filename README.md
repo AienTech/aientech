@@ -5,7 +5,6 @@
 </p>
 
 
-- 🔭 I’m currently working at **[@WeAreGroup](https://wearegroup.de/)**,
 - 🌱 I’m also learning **Computer Science**,
 - 💬 You can ask me about **Go, JavaScript, Software Architecture, DevOps** and **Algorithms**
 - 📫 Want to reach me? I'm [@itsAienSaidi](https://twitter.com/itsAienSaidi) on Twitter,
