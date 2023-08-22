@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hello! I'm Aien.</h2>
+<h2 align="center">👋 Hello! I'm Aien (Āyīn or آیین).</h2>
 <p align="center">
   <a href="https://www.aien.me">Website</a> •
   <a href="https://www.linkedin.com/in/aiensaidi/">LinkedIn</a>
