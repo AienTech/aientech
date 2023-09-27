@@ -27,11 +27,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-PHP             13 hrs 13 mins  █████████▓░░░░░░░░░░░░░░░   38.04 %
-TypeScript      6 hrs 41 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.26 %
-Objective-C     5 hrs 13 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.04 %
-YAML            3 hrs 53 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.19 %
-Docker          1 hr 59 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.74 %
+PHP             12 hrs 37 mins  █████████▒░░░░░░░░░░░░░░░   37.04 %
+YAML            5 hrs 2 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.79 %
+TypeScript      4 hrs 33 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.39 %
+Objective-C     3 hrs 54 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.48 %
+JavaScript      2 hrs 42 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 %
 ```
 
 <!--END_SECTION:waka-->
