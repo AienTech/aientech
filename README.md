@@ -27,11 +27,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-PHP            9 hrs 36 mins   ███████▓░░░░░░░░░░░░░░░░░   30.05 %
-YAML           5 hrs 14 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.36 %
-Objective-C    3 hrs 54 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.23 %
-JavaScript     3 hrs 38 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.37 %
-GDScript3      3 hrs 11 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.99 %
+YAML           6 hrs 55 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.85 %
+PHP            4 hrs 30 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.21 %
+JavaScript     4 hrs 26 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.99 %
+Objective-C    3 hrs 54 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.34 %
+GDScript3      3 hrs 25 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.78 %
 ```
 
 <!--END_SECTION:waka-->
