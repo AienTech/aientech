@@ -27,11 +27,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript       12 hrs 39 mins  ██████████░░░░░░░░░░░░░░░   40.23 %
-PHP              7 hrs 9 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.77 %
-TSConfig         1 hr 59 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.31 %
-JavaScript       1 hr 52 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 %
-Ezhil            1 hr 26 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 %
+TypeScript       14 hrs 33 mins  ███████████▒░░░░░░░░░░░░░   44.69 %
+PHP              5 hrs 9 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.82 %
+Markdown         2 hrs 3 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.34 %
+TSConfig         1 hr 59 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.09 %
+JavaScript       1 hr 52 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.74 %
 ```
 
 <!--END_SECTION:waka-->
