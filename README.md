@@ -27,9 +27,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-PHP        8 mins          ███████████████░░░░░░░░░░   60.60 %
-Markdown   4 mins          ████████▒░░░░░░░░░░░░░░░░   33.24 %
-YAML       0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.16 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
