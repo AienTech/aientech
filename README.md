@@ -27,11 +27,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-PHP          1 hr 28 mins    ████████████████████████░   95.67 %
-TypeScript   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
-XML          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
-.env file    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
-YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
