@@ -27,11 +27,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-PHP            16 hrs 9 mins   █████████████▒░░░░░░░░░░░   52.92 %
-TypeScript     6 hrs 52 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.50 %
-XML            2 hrs 14 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 %
-.env file      1 hr 31 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.97 %
-SmartyConfig   1 hr 25 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 %
+PHP            19 hrs 5 mins   ██████████████▒░░░░░░░░░░   57.33 %
+TypeScript     5 hrs 38 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.94 %
+XML            2 hrs 14 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.72 %
+SmartyConfig   1 hr 58 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.95 %
+.env file      1 hr 49 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 %
 ```
 
 <!--END_SECTION:waka-->
