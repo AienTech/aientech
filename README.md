@@ -27,11 +27,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript                 27 hrs 9 mins   ███████████████░░░░░░░░░░   59.52 %
-JavaScript                 4 hrs 52 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.68 %
-GitIgnore file             3 hrs 2 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.65 %
-PHP                        2 hrs           █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
-Other                      1 hr 53 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
+TypeScript                 27 hrs 48 mins  ██████████████▒░░░░░░░░░░   56.74 %
+JavaScript                 6 hrs 21 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.97 %
+PHP                        3 hrs 3 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.23 %
+GitIgnore file             3 hrs 2 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.19 %
+SQL                        2 hrs 6 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
 ```
 
 <!--END_SECTION:waka-->
