@@ -27,11 +27,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-PHP                   17 hrs 55 mins  █████████████░░░░░░░░░░░░   51.66 %
-Blade Template        4 hrs 12 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.12 %
-Twig                  2 hrs 34 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 %
-Docker                2 hrs 2 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 %
-.env file             1 hr 53 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.45 %
+PHP                   25 hrs 8 mins   █████████████▒░░░░░░░░░░░   53.69 %
+Blade Template        6 hrs 6 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.05 %
+Twig                  2 hrs 46 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.93 %
+.env file             2 hrs 4 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 %
+Docker                2 hrs 2 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
 ```
 
 <!--END_SECTION:waka-->
