@@ -8,7 +8,7 @@
 - 🌱 **Computer Science** grad,
 - 💬 You can ask me about **Go, JavaScript, Software Architecture, DevOps** and **Algorithms**
 - 📫 Want to reach me? I'm [@Alien](https://www.linkedin.com/in/aiensaidi/) on LinkedIn,
-- 📧 And my email is [aien[dot]saidi[at]gmail[dot]com](mailto:aien.saidi@gmail.com).
+- 📧 And my email is [hi[at]aien[dot]me](mailto:hi@aien.me).
 
 -------
 
