@@ -15,8 +15,8 @@
 **📝 Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
-- [AI in everyday Life (For non-techies)]([https://www.aien.me/p/navigating-the-world-of-algorithms](https://aien.me/ai-in-everyday-life-for-non-techies/))
-- [Believing isn't Knowing]([https://www.aien.me/p/what-is-graphql](https://aien.me/believing-isnt-knowing/))
+- [AI in everyday Life (For non-techies)](https://aien.me/ai-in-everyday-life-for-non-techies/)
+- [Believing isn't Knowing](https://aien.me/believing-isnt-knowing/)
 - [Why Developers Should Advocate for BlueSky and AT Protocol](https://aien.me/why-developers-should-advocate-for-bluesky-and-at-protocol/)
 - [The Difference Between Agentic AI and AI Agents](https://aien.me/the-difference-between-agentic-ai-and-ai-agents/)
 <!-- BLOG-POST-LIST:END -->
