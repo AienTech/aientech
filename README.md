@@ -27,11 +27,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-PHP            9 hrs 15 mins   ████████████░░░░░░░░░░░░░   47.87 %
-Twig           2 hrs 48 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.57 %
-TypeScript     2 hrs 29 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.86 %
-JavaScript     1 hr 35 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 %
-Markdown       1 hr 19 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 %
+PHP            5 hrs 15 mins   ████████░░░░░░░░░░░░░░░░░   32.27 %
+Twig           3 hrs 38 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.33 %
+TypeScript     2 hrs 29 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.24 %
+JavaScript     1 hr 36 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.82 %
+Markdown       1 hr 19 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 %
 ```
 
 <!--END_SECTION:waka-->
