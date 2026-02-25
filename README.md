@@ -27,7 +27,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+PHP            4 hrs 43 mins         ████████████▓░░░░░░░░░░░░   51.26 %
+Twig           3 hrs 47 mins         ██████████▒░░░░░░░░░░░░░░   41.18 %
+Text           25 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 %
+Markdown       5 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
+HTML           4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
 ```
 
 <!--END_SECTION:waka-->
