@@ -27,11 +27,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-YAML             1 hr 35 mins          ███████████████▒░░░░░░░░░   60.92 %
-Markdown         31 mins               █████░░░░░░░░░░░░░░░░░░░░   19.79 %
-Docker           19 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.59 %
-C#               4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
-Other            2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
