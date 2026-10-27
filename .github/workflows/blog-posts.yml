@@ -1,0 +1,28 @@
+name: Blog Posts
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Runs at 12am UTC (queues behind Waka via the concurrency group below)
+    - cron: "0 0 * * *"
+
+permissions:
+  contents: write
+
+# Shared with the Waka workflow so the two never push to README.md at the same time
+concurrency:
+  group: readme
+
+jobs:
+  update-readme:
+    name: Pull the latest posts from aien.me
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://aien.me/rss/"
+          max_post_count: 5
+          template: "- `$date` [$title]($url)$newline"
+          date_format: "UTC:yyyy-mm-dd"
+          commit_message: "Updated blog posts from aien.me"

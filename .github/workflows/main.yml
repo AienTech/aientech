@@ -6,6 +6,10 @@ on:
     # Runs at 12am UTC
     - cron: "0 0 * * *"
 
+# Shared with the Blog Posts workflow so the two never push to README.md at the same time
+concurrency:
+  group: readme
+
 jobs:
   update-readme:
     name: Update this repo's README
@@ -14,3 +18,5 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: true
+          SHOW_TOTAL: true
