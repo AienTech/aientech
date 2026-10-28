@@ -11,10 +11,9 @@
 
 ### `$ ls -t ~/blog | head -5`
 
-<!-- BLOG-POST-LIST:START -->
-- `2026-10-22` [Is Vibe Coding Really That Bad?](https://aien.me/is-vibe-coding-really-that-bad/)
-- `2026-10-15` [What Actually Goes Into a Game Design Document (Part 2: Design, Technical, and FAQ)](https://aien.me/what-actually-goes-into-a-game-design-document-part-2-design-technical-and-faq/)
-- `2026-10-12` [What Actually Goes Into a Game Design Document (Part 1: The Concept Document)](https://aien.me/what-actually-goes-into-a-game-design-document-part-1-the-concept-document/)
+<!-- BLOG-POST-LIST:START -->- `2026-10-22` [Is Vibe Coding Really That Bad?](https://aien.me/is-vibe-coding-really-that-bad/)
+- `2026-10-15` [What Actually Goes Into a Game Design Document &lpar;Part 2: Design, Technical, and FAQ&rpar;](https://aien.me/what-actually-goes-into-a-game-design-document-part-2-design-technical-and-faq/)
+- `2026-10-12` [What Actually Goes Into a Game Design Document &lpar;Part 1: The Concept Document&rpar;](https://aien.me/what-actually-goes-into-a-game-design-document-part-1-the-concept-document/)
 - `2026-10-07` [What Actually Happens During Publishing](https://aien.me/what-actually-happens-during-publishing/)
 - `2026-10-04` [What Actually Happens During Testing](https://aien.me/what-actually-happens-during-testing/)
 <!-- BLOG-POST-LIST:END -->
