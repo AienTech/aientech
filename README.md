@@ -11,11 +11,13 @@
 
 ### `$ ls -t ~/blog | head -5`
 
-<!-- BLOG-POST-LIST:START -->- `2026-11-18` [Tests First, Prompts Second &lpar;Part 1: Before the Code&rpar;](https://aien.me/tests-first-prompts-second-part-1/)
+<!-- BLOG-POST-LIST:START -->
+- `2026-11-18` [Tests First, Prompts Second &lpar;Part 1: Before the Code&rpar;](https://aien.me/tests-first-prompts-second-part-1/)
 - `2026-10-22` [Is Vibe Coding Really That Bad?](https://aien.me/is-vibe-coding-really-that-bad/)
 - `2026-10-15` [What Actually Goes Into a Game Design Document &lpar;Part 2: Design, Technical, and FAQ&rpar;](https://aien.me/what-actually-goes-into-a-game-design-document-part-2-design-technical-and-faq/)
 - `2026-10-12` [What Actually Goes Into a Game Design Document &lpar;Part 1: The Concept Document&rpar;](https://aien.me/what-actually-goes-into-a-game-design-document-part-1-the-concept-document/)
 - `2026-10-07` [What Actually Happens During Publishing](https://aien.me/what-actually-happens-during-publishing/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <sub>↳ synced daily from <a href="https://aien.me/rss/">aien.me/rss</a> · <a href="https://aien.me">read everything →</a></sub>

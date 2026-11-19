@@ -24,5 +24,8 @@ jobs:
           feed_list: "https://aien.me/rss/"
           max_post_count: 5
           template: "- `$date` [$title]($url)$newline"
+          # Custom templates skip the newline after the START marker by default, which glues the
+          # first item onto the HTML comment line and GitHub then renders it as raw text
+          tag_post_pre_newline: true
           date_format: "UTC:yyyy-mm-dd"
           commit_message: "Updated blog posts from aien.me"
